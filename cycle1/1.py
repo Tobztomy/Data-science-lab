@@ -1,3 +1,5 @@
+print("SJC23MCA-2059 : TOBIN K TOMY")
+print("Batch : MCA 2023-25")
 lower_value = int(input("Please, Enter the Lowest Range Value: "))
 upper_value = int(input("Please, Enter the Upper Range Value: "))
 
